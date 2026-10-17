@@ -16,12 +16,6 @@ In this project, you’ll learn how to:
 
 ---
 
-## 🎥 Full Video Tutorial
-
-📺 [Watch the Full Tutorial Here](https://youtu.be/Gu583PXJDpY)
-
----
-
 ## 🛠 Getting Started
 
 To work on this project:
@@ -38,33 +32,3 @@ To work on this project:
 - ⚙️ **Operations Managers** optimizing logistics performance
 - 🎓 **Students & Job Seekers** building a strong Power BI portfolio
 
----
-
-## 📢 Stay Connected
-
-👍 Like the video if you found it valuable!  
-💬 Comment your thoughts or dashboard ideas!  
-🔔 Subscribe for more Power BI projects, business analytics tutorials, and real-world case studies.
-
----
-
-## 🌐 Visit Pianalytix for More Resources
-
-🔗 **Website**: [https://pianalytix.com](https://pianalytix.com)  
-Explore 300+ real-world projects in Data Science, Power BI, and Development.
-
----
-
-## 📲 Connect with Pianalytix:
-
-✅ **Instagram**: [@pianalytix.official](https://www.instagram.com/pianalytix.official/)  
-✅ **LinkedIn**: [Pianalytix](https://www.linkedin.com/company/pianalytix/)  
-✅ **YouTube**: [@pianalytixofficial](https://m.youtube.com/@pianalytixofficial)
-
----
-
-## 📘 Explore Our Udemy Courses:
-
-- 📌 [Build 45 Real-World Power BI Projects for BI & Data Analysts](https://www.udemy.com/course/data-analytics-course-power-bi-tableau/?couponCode=NOV2024)  
-- 📌 [Data Science Bundle: 180 Hands-On Projects](https://www.udemy.com/course/data-science-projects-mastering-the-real-life-analytics/?couponCode=NOV2024)  
-- 📌 [100 Days of Code: Real-World Data Science Projects Bootcamp](https://www.udemy.com/course/hands-on-data-science-build-real-world-projects/?couponCode=NOV2024)
